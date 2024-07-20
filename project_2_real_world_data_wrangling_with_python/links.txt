@@ -1,0 +1,3 @@
+Dataset 1 - is collected by scraping from LinkedIn profiles. I cannot provide here before I clean it from any personal data.
+
+Dataset 2 - List of all the skills - Link: https://www.kaggle.com/datasets/arbazkhan971/allskillandnonskill
