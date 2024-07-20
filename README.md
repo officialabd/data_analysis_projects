@@ -18,7 +18,7 @@ Welcome to my repository for the Udacity Data Analyst Nanodegree Program! This p
 
    - Applied data visualization principles using Matplotlib and Seaborn to tell compelling stories with data through analysis and visualizations.
 
-For more details about the course, please visit the [Udacity Data Analyst Nanodegree Program](https://learn.udacity.com/nanodegrees/nd002-palestine).
+For more details about the course, please visit the [Udacity Data Analyst Nanodegree Program](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
 
 ## License
 
