@@ -4,7 +4,7 @@
 
 ## DESCRIPTION
 
-Welcome to my repository for the Udacity Data Analyst Nanodegree Program! This program provided a comprehensive introduction to data analysis using Python, with a focus on libraries such as NumPy and pandas. Throughout the course, I completed three main projects, each designed to enhance my skills in data wrangling, visualization, and analysis.
+Welcome to my repository for the Udacity Data Analyst Nanodegree Program! This program provided a comprehensive introduction to data analysis using Python, with a focus on libraries such as NumPy, Matplotlib, Seaborn, and pandas. Throughout the course, I completed three main projects, each designed to enhance my skills in data wrangling, visualization, and analysis.
 
 ### Projects:
 
